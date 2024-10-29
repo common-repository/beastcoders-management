@@ -1,0 +1,20 @@
+/* 
+    Document   : admin_css
+    Created on : 27 Jun, 2013, 12:15:12 AM
+    Author     : beastCoders
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.beast-main{
+    border: 1px solid #8C8C8C;
+    border-radius: 5px 5px 5px 5px;
+    margin-right: 100px;
+    margin-top: 20px;
+    padding: 5px 10px;
+}
+
+.beast-head{
+    border-bottom: 1px solid #8C8C8C;
+    
+}
